@@ -9,9 +9,9 @@
 
 - **IPID**：IP Identification，用于唯一标识每个IP数据包。如果多个设备共用一个IP，但数据包ID不连续，会触发检测。
 - **TTL**：Time To Live，数据包的生存时间。不同设备的TTL通常不同，共用IP时TTL不一致也会触发检测。
-- **Flash Cookie**：通过Flash存储的Cookie，用于跟踪用户设备。
+- **MAC**：MAC地址，最基础的检测法，相信我不用多说
 - **UA（User-Agent）**：通过浏览器或设备发送的用户代理字符串来识别设备类型。
-- **Flash cookie**：浏览器访问Flash网页时记录相关内容信息的一个存储区域，Flash Cookie并不会被浏览器轻易清除
+- **Flash cookie**：浏览器访问Flash网页时记录相关内容信息的一个存储区域，Flash Cookie并不会被浏览器轻易清除,用于跟踪用户设备
 
 
 ## 一、极路由4增强版刷机教程
