@@ -227,3 +227,4 @@
 - 开启SSH的程序源于：[https://www.right.com.cn/FORUM/thread-8268438-1-1.html](https://www.right.com.cn/FORUM/thread-8268438-1-1.html)
 - 参考文档：[https://blog.csdn.net/u010102747/article/details/124639593](https://blog.csdn.net/u010102747/article/details/124639593)
 - 相关网址：[https://github.com/SunBK201/UA3F/issues/7](https://github.com/SunBK201/UA3F/issues/7)
+- 叶小姐做的视频（超级无敌喜欢外加感谢）：[https://www.bilibili.com/video/BV1yr4meeENt/?share_source=copy_web&vd_source=4336df8b0f0ae6d7c8e39e17de707b39]
