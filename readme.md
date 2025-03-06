@@ -257,7 +257,7 @@
 - https://github.com/CHN-beta/rkp-ipid
 - https://github.com/jerrykuku/luci-theme-argon
 - https://github.com/jerrykuku/luci-app-argon-config
-- ttps://github.com/lucikap/luci-app-ua2f
+- https://github.com/lucikap/luci-app-ua2f
 - https://github.com/linkease/istore
 - https://github.com/openwrt/openwrt
 - 叶小姐做的视频（超级无敌喜欢外加感谢）：[https://www.bilibili.com/video/BV1yr4meeENt]
