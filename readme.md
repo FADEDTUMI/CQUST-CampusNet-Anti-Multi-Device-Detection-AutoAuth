@@ -178,6 +178,16 @@
 - 启动crash服务时可能会出现一堆报错，此时可将防火墙应用改成iptables。
 - **参考网址**：[https://github.com/SunBK201/UA3F/issues/7](https://github.com/SunBK201/UA3F/issues/7)
 
+### 7. 测试防检测功能已经运行
+
+- **防UA检测生效**
+- ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/%E9%98%B2UA%E6%A3%80%E6%B5%8B%E7%94%9F%E6%95%88.png)
+- **防TTL检测生效**
+- ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/%E9%98%B2TTL%E7%94%9F%E6%95%88.png)
+- **防IPID检测生效**
+- ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/%E9%98%B2IPID%E6%A3%80%E6%B5%8B%E5%B7%B2%E7%94%9F%E6%95%88.png)
+
+
 ## 三、重庆科技大学校园网自动化认证脚本部署
 
 ### 1. 环境说明
