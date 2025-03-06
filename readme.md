@@ -11,7 +11,7 @@
 
 - **背景说明**：由于厂商倒闭关服，我们需要自行通过算法基于uuid以及local_token生成cloud_token，然后才能获取local_ssh。
 - **操作**：下载获取local_ssh的程序。
-- - 开启SSH的程序源于：[https://www.right.com.cn/FORUM/thread-8268438-1-1.html]
+- 开启SSH的程序源于：[https://www.right.com.cn/FORUM/thread-8268438-1-1.html]
 
 ### 2. 开启SSH服务
 
