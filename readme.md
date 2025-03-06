@@ -23,7 +23,8 @@
     ```
   - 将SSH设置为永久。（这里我使用的终端工具是SecureCRT）
   - **图片参考**：
-  - [image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/readmeimage/开启极路由ssh.png)，图片2
+  - [[image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/readmeimage/开启极路由ssh.png)](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/%E5%BC%80%E5%90%AF%E6%9E%81%E8%B7%AF%E7%94%B1ssh.png)
+  - 图片2
 
 ### 3. 备份路由器固件及相关数据
 
