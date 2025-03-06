@@ -23,8 +23,8 @@
     ```
   - 将SSH设置为永久。（这里我使用的终端工具是SecureCRT）
   - **图片参考**：
-  - [[image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/readmeimage/开启极路由ssh.png)](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/%E5%BC%80%E5%90%AF%E6%9E%81%E8%B7%AF%E7%94%B1ssh.png)
-  - 图片2
+  - ![[image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/readmeimage/开启极路由ssh.png)](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/%E5%BC%80%E5%90%AF%E6%9E%81%E8%B7%AF%E7%94%B1ssh.png)
+  - ![图片2](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/securecrt%E6%88%AA%E5%9B%BE.png)
 
 ### 3. 备份路由器固件及相关数据
 
@@ -70,9 +70,12 @@
      - **注意**：由于新版取消了ssh-rsa，而极路由4仅支持较旧的ssh-rsa主机密钥类型，我们可以采取临时启用ssh-rsa，安全的同时且仅单次命令有效。
   - **开启SSH的程序源于**：
     [https://www.right.com.cn/FORUM/thread-8268438-1-1.html](https://www.right.com.cn/FORUM/thread-8268438-1-1.html)
-  - **图片参考**：图片x4
-  - **参考文档**：
-    [https://blog.csdn.net/u010102747/article/details/124639593](https://blog.csdn.net/u010102747/article/details/124639593)
+  - **图片参考**：
+  - ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/breed%E6%B5%81%E7%A8%8B1.png)
+  - ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/breed%E6%B5%81%E7%A8%8B2.png)
+  - ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/breed%E6%B5%81%E7%A8%8B3.png)
+  - ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/breed%E6%B5%81%E7%A8%8B4.png)
+  - ![image](https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/blob/main/readmeimage/breed%E6%B5%81%E7%A8%8B5.png)
 
 ## 二、防多设备检测教程
 
@@ -83,7 +86,7 @@
   ```rust
   luci-app-autotimeset luci-app-ttyd luci-theme-argon luci-app-broadbandacc kmod-rkp-ipid iptables-mod-filter iptables-mod-ipopt iptables-mod-u32 iptables-nft kmod-ipt-ipopt iptables-mod-conntrack-extra
   ```
-
+- **自行更新openwrt固件**
 ### 2. 安装ShellClash
 
 - **命令**：
