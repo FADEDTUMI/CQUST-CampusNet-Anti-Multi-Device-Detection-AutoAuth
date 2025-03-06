@@ -102,7 +102,7 @@
   ```bash
   export url='https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
   ```
-- **此处结合网上大多教程填充细节，例如crash作者github**。
+- **此处结合网上大多教程填充细节，例如crash作者的github[https://github.com/juewuy/ShellCrash/releases]**。
 - crash添加#用于UA3F的Clash配置（无外部代理）
   - **配置文件地址**：
     [https://cdn.jsdelivr.net/gh/SunBK201/UA3F@master/clash/ua3f-cn.yaml](https://cdn.jsdelivr.net/gh/SunBK201/UA3F@master/clash/ua3f-cn.yaml)
@@ -202,7 +202,7 @@
 ### 1. 环境说明
 
 - 大部分防多设备检测已经构建完毕，此时可根据自身校园网认证进行自动化脚本部署。
-- **本人校园网认证环境**：重庆科技大学，认证方式为锐捷。
+- **本人校园网认证环境**：重庆科技大学校园网，认证方式为锐捷。
 
 ### 2. 部署步骤
 
