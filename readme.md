@@ -248,7 +248,17 @@
 
 ## 文章引用
 
+- 基于GPL开源协议
 - 开启SSH的程序源于：[https://www.right.com.cn/FORUM/thread-8268438-1-1.html](https://www.right.com.cn/FORUM/thread-8268438-1-1.html)
 - 参考文档：[https://blog.csdn.net/u010102747/article/details/124639593](https://blog.csdn.net/u010102747/article/details/124639593)
-- 相关网址：[https://github.com/SunBK201/UA3F/issues/7](https://github.com/SunBK201/UA3F/issues/7)
+- 相关网址：
+- [https://github.com/SunBK201/UA3F/issues/7](https://github.com/SunBK201/UA3F/issues/7)
+- https://github.com/Zxilly/UA2F
+- https://github.com/CHN-beta/rkp-ipid
+- https://github.com/jerrykuku/luci-theme-argon
+- https://github.com/jerrykuku/luci-app-argon-config
+- ttps://github.com/lucikap/luci-app-ua2f
+- https://github.com/linkease/istore
+- https://github.com/openwrt/openwrt
 - 叶小姐做的视频（超级无敌喜欢外加感谢）：[https://www.bilibili.com/video/BV1yr4meeENt]
+
