@@ -22,7 +22,8 @@
     /etc/init.d/dropbear enable
     ```
   - 将SSH设置为永久。（这里我使用的终端工具是SecureCRT）
-  - **图片参考**：图片1，图片2
+  - **图片参考**：
+  - (https://github.com/FADEDTUMI/CQUST-CampusNet-Anti-Multi-Device-Detection-AutoAuth/readmeimage/开启极路由ssh.png)，图片2
 
 ### 3. 备份路由器固件及相关数据
 
